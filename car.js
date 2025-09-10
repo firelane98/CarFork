@@ -10,10 +10,10 @@
 
   const drag = 0.95;
   const angularDrag = 0.95;
-  const turnSpeed = 0.002;
+  const turnSpeed = 0.001;
 
-  const WIDTH = 1500;
-  const HEIGHT = 1500;
+  const WIDTH = 500;
+  const HEIGHT = 500;
 
   const $canvas = document.querySelector("canvas");
 
